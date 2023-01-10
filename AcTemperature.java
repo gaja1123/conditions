@@ -15,7 +15,7 @@ public class AcTemperature {
 				
 			}
 		else {
-			System.out.println("Invalid");
+			System.out.println("Invalid temperature");
 		}
 	}
 	
